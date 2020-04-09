@@ -65,7 +65,7 @@
     "eslint-plugin-react": "7.19.0",
     "gh-pages": "2.2.0",
     "highlight.js": "9.18.1",
-    "husky": "4.2.3",
+    "husky": "4.2.5",
     "jest": "25.2.7",
     "kkt": "5.6.1",
     "less": "3.11.1",
